@@ -39,19 +39,19 @@ The client has specified the following requirements in the form of *User Stories
 ### Technical Restrictions
 
 The company CTO has set the following technical restrictions:
-- [ ] 1. Must use an approved `JavaScript Framework`
-- [ ] 2. Must use an approved `CSS Framework`
+- [x] 1. Must use an approved `JavaScript Framework`
+- [x] 2. Must use an approved `CSS Framework`
 - [ ] 3. Must be hosted on an approved `Static Host`
-- [ ] 4. Must use an approved `Design Application`
-- [ ] 5. Must use an approved `Planning Application`
+- [x] 4. Must use an approved `Design Application`
+- [x] 5. Must use an approved `Planning Application`
 
 ### Required Links
 
 The Product Owner has requested links to the following:
-- [ ] 1. A Gantt chart for project timing
-- [ ] 2. A design prototype
-- [ ] 3. A style guide
-- [ ] 4. A kanban project board
+- [x] 1. A Gantt chart for project timing
+- [x] 2. A design prototype
+- [x] 3. A style guide
+- [x] 4. A kanban project board
 - [ ] 5. A repository link
 - [ ] 6. A hosted application demo link
 
@@ -59,10 +59,10 @@ The Product Owner has requested links to the following:
 This list covers libraries and services that have been vetted by the company and approved for use.
 
 ### JavaScript Frameworks
-- [ ] - React (>16)
+- [x] - React (>16)
 
 ### CSS Frameworks
-- [ ] - Bootstrap (>5)
+- [x] - Bootstrap (>5)
 - Tailwind (>3)
 - MUI (>5)
 - Styled Components
@@ -74,12 +74,12 @@ This list covers libraries and services that have been vetted by the company and
 
 ### Design Applications
 - Adobe XD
-- [ ] - Figma
+- [x] - Figma
 - Sketch
 
 ### Planning Applications
 - Trello
-- [ ] - GitHub Projects
+- [x] - GitHub Projects
 
 ## Delivery
 - [ ] Include the required links in the Moodle delivery window using [this template format](delivery-template.html).
