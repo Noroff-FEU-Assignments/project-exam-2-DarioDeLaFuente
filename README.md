@@ -1,6 +1,20 @@
+INFO:
+LINK to my repo in my own Github account for the exam:
+https://github.com/DarioDeLaFuente/project-exam-2-deliveri-DarioDeLaFuente
+
+REF:
+Connor obrien
+Hi FEDOCT20P
+The videos for the repos mentioned in yesterday's call are above.
+You can use a repo in your own Github account for the exam if you want to use Github Projects to create issues and branches for those issues.
+
+<https://teams.microsoft.com/l/message/19:5uO_cmWkOnTJzqKzL0XPYpi9lRBjW4GjWzFfMCnKu4Y1@thread.tacv2/1712842349551?tenantId=849aef27-5aa9-4c40-a7ad-38cf10c2f3fb&groupId=1f221624-f2d1-44cc-b1cd-d3a2ec846912&parentMessageId=1712842349551&teamName=FEDOCT20P&channelName=General&createdTime=1712842349551&allowXTenantAccess=false>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
 Info:
 
 ```bash
