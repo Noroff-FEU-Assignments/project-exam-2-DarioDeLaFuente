@@ -1,6 +1,6 @@
 INFO:
 LINK to my repo in my own Github account for the exam:
-https://github.com/DarioDeLaFuente/project-exam-2-deliveri-DarioDeLaFuente
+https://github.com/DarioDeLaFuente/project-exam-2-delivery-dariodelafuente
 
 REF:
 Connor obrien
